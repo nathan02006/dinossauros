@@ -1,0 +1,10 @@
+.cabecalho {
+    background-color: aliceblue;
+    color:white;
+    display: flex;
+
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
