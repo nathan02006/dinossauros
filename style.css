@@ -1,10 +1,19 @@
-.cabecalho {
-    background-color: aliceblue;
-    color:white;
-    display: flex;
+*{
+    margin:  10;
+   padding:  10;
+}
 
+.cabecalho {
+    background-color: rgb(255, 255, 255);
+    color:rgb(255, 183, 183);
+    display: flex;
+justify-content: space-around ;
 }
 
 .cabecalho-imagem{
     width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
 }
